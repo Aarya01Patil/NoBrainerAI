@@ -1,4 +1,4 @@
-NoBrainer - A Modern UI/UX Website
+# NoBrainer - A Modern UI/UX Website
 
 **Overview:**
 NoBrainer is a cutting-edge, visually stunning website developed using **React.js** and **Tailwind CSS**, showcasing a modern approach to **UI/UX** design. The website serves as a perfect example of how contemporary web development frameworks and design systems can create an engaging, intuitive, and efficient user experience. 
@@ -21,3 +21,19 @@ The use of **Tailwind CSS**, a utility-first CSS framework, allows for rapid pro
 **Inspiration for Future Applications:**
 Brainwave not only sets a high bar for modern web design but also serves as a **reference point** for developers and designers looking to create user-friendly, visually appealing websites and applications. The fusion of modern technologies like **React.js** and **Tailwind CSS**, combined with a strong focus on **UI/UX principles**, makes it an excellent source of **inspiration** for future projects aiming to offer a premium user experience.
 
+# Getting Started
+
+Follow these steps to set up the project locally on your machine.
+Cloning the Repository
+
+git clone https://github.com/Aarya01Patil/NoBrainerAI
+cd brainwave
+Installation
+
+Install the project dependencies using npm:
+
+npm install
+Running the Project
+
+npm run dev
+Open http://localhost:5173 in your browser to view the project.
