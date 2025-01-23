@@ -27,14 +27,14 @@ Follow these steps to set up the project locally on your machine.
 
 Cloning the Repository
 
-git clone https://github.com/Aarya01Patil/NoBrainerAI
-cd NoBrainerAI
+`git clone https://github.com/Aarya01Patil/NoBrainerAI
+cd NoBrainerAI`
 
 Installation
 
 Install the project dependencies using npm:
 
-npm install
+`npm install`
 
 Running the Project
 
